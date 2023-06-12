@@ -5,7 +5,7 @@
 
 * [x] [Introdução.](https://github.com/Devsgeeknerd/mod-int-git-fun-bas)
 * [x] [Repositórios.](https://github.com/Devsgeeknerd/mod-rep-git-fun-bas)
-* [ ] [Arquivos e Seus Estados.](https://github.com/Devsgeeknerd/mod-arq-seu-est-git-fun-bas) &#128679;
+* [x] [Arquivos e Seus Estados.](https://github.com/Devsgeeknerd/mod-arq-seu-est-git-fun-bas)
 * [ ] [Commits.](https://github.com/Devsgeeknerd/mod-com-git-fun-bas) &#128679;
 * [ ] [Repositórios Externos.](https://github.com/Devsgeeknerd/mod-rep-ext-git-fun-bas) &#128679;
 * [ ] [Comunicação HTTPS e SSH.](https://github.com/Devsgeeknerd/mod-com-htt-ssh-git-fun-bas) &#128679;
