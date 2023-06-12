@@ -3,7 +3,7 @@
 
 ***Conteúdo do Curso:***
 
-* [ ] [Introdução.](https://github.com/Devsgeeknerd/mod-int-git-fun-bas) &#128679;
+* [x] [Introdução.](https://github.com/Devsgeeknerd/mod-int-git-fun-bas)
 * [ ] [Repositórios.](https://github.com/Devsgeeknerd/mod-rep-git-fun-bas) &#128679;
 * [ ] [Arquivos e Seus Estados.](https://github.com/Devsgeeknerd/mod-arq-seu-est-git-fun-bas) &#128679;
 * [ ] [Commits.](https://github.com/Devsgeeknerd/mod-com-git-fun-bas) &#128679;
