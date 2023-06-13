@@ -9,7 +9,7 @@
 * [x] [Commits.](https://github.com/Devsgeeknerd/mod-com-git-fun-bas)
 * [x] [Repositórios Externos.](https://github.com/Devsgeeknerd/mod-rep-ext-git-fun-bas)
 * [x] [Comunicação HTTPS e SSH.](https://github.com/Devsgeeknerd/mod-com-htt-ssh-git-fun-bas)
-* [ ] [Branchs.](https://github.com/Devsgeeknerd/mod-bra-git-fun-bas) &#128679;
+* [x] [Branches.](https://github.com/Devsgeeknerd/mod-bra-git-fun-bas)
 * [ ] [Clonando Repositórios.](https://github.com/Devsgeeknerd/mod-clo-rep-git-fun-bas) &#128679;
 * [ ] [Git Desktop.](https://github.com/Devsgeeknerd/mod-git-des-git-fun-bas) &#128679;
 
