@@ -7,7 +7,7 @@
 * [x] [Repositórios.](https://github.com/Devsgeeknerd/mod-rep-git-fun-bas)
 * [x] [Arquivos e Seus Estados.](https://github.com/Devsgeeknerd/mod-arq-seu-est-git-fun-bas)
 * [x] [Commits.](https://github.com/Devsgeeknerd/mod-com-git-fun-bas)
-* [ ] [Repositórios Externos.](https://github.com/Devsgeeknerd/mod-rep-ext-git-fun-bas) &#128679;
+* [x] [Repositórios Externos.](https://github.com/Devsgeeknerd/mod-rep-ext-git-fun-bas)
 * [ ] [Comunicação HTTPS e SSH.](https://github.com/Devsgeeknerd/mod-com-htt-ssh-git-fun-bas) &#128679;
 * [ ] [Branchs.](https://github.com/Devsgeeknerd/mod-bra-git-fun-bas) &#128679;
 * [ ] [Clonando Repositórios.](https://github.com/Devsgeeknerd/mod-clo-rep-git-fun-bas) &#128679;
