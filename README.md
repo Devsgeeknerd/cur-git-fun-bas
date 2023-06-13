@@ -10,7 +10,7 @@
 * [x] [Repositórios Externos.](https://github.com/Devsgeeknerd/mod-rep-ext-git-fun-bas)
 * [x] [Comunicação HTTPS e SSH.](https://github.com/Devsgeeknerd/mod-com-htt-ssh-git-fun-bas)
 * [x] [Branches.](https://github.com/Devsgeeknerd/mod-bra-git-fun-bas)
-* [ ] [Clonando Repositórios.](https://github.com/Devsgeeknerd/mod-clo-rep-git-fun-bas) &#128679;
+* [x] [Clonando Repositórios.](https://github.com/Devsgeeknerd/mod-clo-rep-git-fun-bas)
 * [ ] [Git Desktop.](https://github.com/Devsgeeknerd/mod-git-des-git-fun-bas) &#128679;
 
 O Git é um sistema para controle de versão de arquivos muito utilizado por desenvolvedores para controlar as modificações de seus projetos e arquivos.
